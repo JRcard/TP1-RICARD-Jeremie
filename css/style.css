@@ -31,6 +31,19 @@ footer {
     padding: 5px;
     background-color: darkcyan;
 }
+footer a {
+    font-size: 1rem;
+    color:white;
+    text-decoration: underline;
+}
+footer a:hover {
+    transition: all ease-in-out .4s;
+    font-size: 1.1rem;
+    color:#ccc;
+    text-decoration: underline;
+    border:2px solid #ccc;
+    padding: 2px;
+}
 
 
 /* MENU */
